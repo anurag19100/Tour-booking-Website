@@ -1,7 +1,7 @@
 {
-  "name": "natours",
+  "name": "Tour booking Website",
   "version": "1.0.0",
-  "description": "Learning node, express and mongoDB",
+  "description": "",
   "main": "app.js",
   "scripts": {
     "start:dev": "nodemon server.js",
@@ -10,19 +10,19 @@
   "author": "Jonas Schmedtmann",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^7.0.0",
-    "express": "^4.16.4",
-    "morgan": "^1.9.1"
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "morgan": "^1.10.0"
   },
   "devDependencies": {
-    "eslint": "^5.16.0",
-    "eslint-config-airbnb": "^17.1.0",
-    "eslint-config-prettier": "^4.1.0",
-    "eslint-plugin-import": "^2.17.2",
-    "eslint-plugin-jsx-a11y": "^6.2.1",
-    "eslint-plugin-node": "^8.0.1",
-    "eslint-plugin-prettier": "^3.0.1",
-    "eslint-plugin-react": "^7.12.4",
-    "prettier": "^1.17.0"
+    "eslint": "^8.5.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-react": "^7.28.0",
+    "prettier": "^2.5.1"
   }
 }
