@@ -1,5 +1,5 @@
 
-# Project Title
+# MERN Stack Tour Booking Website
 
 A Tour booking Website based on MERN stack to book tour , review tour, rating tour , advanced authentication features and many more .
 
