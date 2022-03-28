@@ -6,6 +6,17 @@ A Tour booking Website based on MERN stack to book tour , review tour, rating to
 ## Demo
 https://tour-booking-website.netlify.app/
 
+## Summary of the App
+
+- Fronted using ReactJS
+- Backend usign ExpressJS
+- MongoDB NoSQL Database is used to store User, Tour, Reviews and Bookings Data
+- Used Stripe API to process payments(though it is in the test mode :/)
+<!-- - Used demo data provided by Jonas Schmedtmann for Tours, Reviews and Users -->
+- Used jwt to provide authentication to users
+- Used bcrypt to encrypt passwords and implemented features to reset passwords by sending a security token via mail
+
+
 ## Key Features
 
 * Authentication and Authorization
@@ -15,6 +26,7 @@ https://tour-booking-website.netlify.app/
 * User profile
   - Update username, photo, email, and password
 * Credit card Payment
+* 
 ## Usage/Examples
 
 * Review and rating
@@ -25,15 +37,7 @@ https://tour-booking-website.netlify.app/
   - Signup, confirm user email, login with refresh token, two-factor authentication
 * And More ! There's always room for improvement!
 
-## Summary of the App
 
-- Fronted using ReactJS
-- Backend usign ExpressJS
-- MongoDB NoSQL Database is used to store User, Tour, Reviews and Bookings Data
-- Used Stripe API to process payments(though it is in the test mode :/)
-- Used demo data provided by Jonas Schmedtmann for Tours, Reviews and Users
-- Used jwt to provide authentication to users
-- Used bcrypt to encrypt passwords and implemented features to reset passwords by sending a security token via mail
 
 ## Tech Stack
 
