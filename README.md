@@ -11,7 +11,7 @@ https://tour-booking-website.netlify.app/
 * Authentication and Authorization
   - Login and logout
 * Tour
-  - Manage booking, check tours map, check users' reviews and rating
+  - Manage booking, check tours map, check user's reviews and rating
 * User profile
   - Update username, photo, email, and password
 * Credit card Payment
@@ -24,6 +24,16 @@ https://tour-booking-website.netlify.app/
 * Advanced authentication features
   - Signup, confirm user email, login with refresh token, two-factor authentication
 * And More ! There's always room for improvement!
+
+## Summary of the App
+
+- Fronted using ReactJS
+- Backend usign ExpressJS
+- MongoDB NoSQL Database is used to store User, Tour, Reviews and Bookings Data
+- Used Stripe API to process payments(though it is in the test mode :/)
+- Used demo data provided by Jonas Schmedtmann for Tours, Reviews and Users
+- Used jwt to provide authentication to users
+- Used bcrypt to encrypt passwords and implemented features to reset passwords by sending a security token via mail
 
 ## Tech Stack
 
