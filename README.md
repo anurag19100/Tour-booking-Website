@@ -1,10 +1,10 @@
 
 # MERN Stack Tour Booking Website
 
-A Tour booking Website based on MERN stack to book tour , review tour, rating tour , advanced authentication features and many more .
+A fully fledged web application made using MERN Stack to book tour , review tour, rate tour , advanced authentication features and many more .
 
 ## Demo
-https://tour-booking-website.netlify.app/
+Site is live at https://tour-booking-website.netlify.app/
 
 ## Summary of the App
 
