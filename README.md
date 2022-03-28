@@ -9,7 +9,7 @@ Site is live at https://tour-booking-website.netlify.app/
 ## Summary of the App
 
 - Fronted using ReactJS
-- Backend usign ExpressJS
+- Backend using ExpressJS
 - MongoDB NoSQL Database is used to store User, Tour, Reviews and Bookings Data
 - Used Stripe API to process payments(though it is in the test mode :)
 - Used jwt to provide authentication to users
