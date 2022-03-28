@@ -17,7 +17,7 @@ const app = express();
 // Set security HTTP headers
 app.use(helmet());
 
-// Development logging
+// Development log
 if (process.env.NODE_ENV === 'development') {
   app.use(morgan('dev'));
 }
