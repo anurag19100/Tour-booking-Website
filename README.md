@@ -14,18 +14,8 @@ Site is live at https://tour-booking-website.netlify.app/
 - Used Stripe API to process payments(though it is in the test mode :)
 - Used jwt to provide authentication to users
 - Used bcrypt to encrypt passwords and implemented features to reset passwords by sending a security token via mail
+- Manage booking, check tours map, check user's reviews and rating
 
-
-## Key Features
-
-* Authentication and Authorization
-  - Login and logout
-* Tour
-  - Manage booking, check tours map, check user's reviews and rating
-* User profile
-  - Update username, photo, email, and password
-* Credit card Payment
-* 
 ## Usage/Examples
 
 * Review and rating
