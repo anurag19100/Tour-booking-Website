@@ -16,10 +16,17 @@ Site is live at https://tour-booking-website.netlify.app/
 - Used bcrypt to encrypt passwords and implemented features to reset passwords by sending a security token via mail
 - Manage booking, check tours map, check user's reviews and rating
 
+
+
+
 ## Usage/Examples
 
-* Review and rating
-  - Allow user to add a review directly at the website after they have taken a tour
+* User
+  - Users can create accounts and buy Tours
+  - There are three types of Users - **Admin**, **Lead-Guide**, **Guide** and **User**
+  - Users can buy any tour and write a review and give a rating to the Tours, directly at the website after they have taken a tour.
+  - Users can maintain and edit their own personal details
+  - Users can reset their password in case they forget it 
 * Booking
   - Prevent duplicate bookings after user has booked that exact tour, implement favourite tours
 * Advanced authentication features
@@ -68,10 +75,10 @@ Start the server
 ```bash
   npm run start
 ```
-<!-- 
+
 ## Acknowledgement
 
-* This project is part of the online course I've taken at Udemy. Thanks to Jonas Schmedtmann for creating this awesome course! Link to the course: [Node.js, Express, MongoDB & More: The Complete Bootcamp 2019](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/) -->
+* Thanks to Jonas Schmedtmann for creating this awesome beautiful website design
 
 
 ## License
